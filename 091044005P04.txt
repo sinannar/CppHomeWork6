@@ -1,0 +1,16 @@
+8x^0
+8x^05x^3
+8x^0-5x^3
+-8x^0
+64x^0
+320x^0
+315x^0
+320x^0
+enter the polinomial
+1x^0
+F(x)=1x^0+
+1
+calculating most power
+0
+calculating most power
+8
